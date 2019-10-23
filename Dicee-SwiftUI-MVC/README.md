@@ -7,3 +7,7 @@ Made the following changes:
 3. `@Published` the model's state as a new dictionary called `die`. The two dice are `die[1]` and die[2]`
 4. Updated the ContentView reference the model as an `@ObservedObject`
 5. Updated the initializer to DiceView to pass the `diceeModel.die[1]` instead of `leftDiceValue`
+
+Next steps:
+-Figure out how to animate the dice roll
+
