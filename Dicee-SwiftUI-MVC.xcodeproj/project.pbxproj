@@ -27,7 +27,7 @@
 		C6950B192360C49500D450E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6950B1B2360C49500D450E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6950B212360C4FB00D450E7 /* DiceeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceeModel.swift; sourceTree = "<group>"; };
-		C6950B232360C7C200D450E7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C6950B232360C7C200D450E7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "Dicee-SwiftUI-MVC/README.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +44,7 @@
 		C6950B012360C49400D450E7 = {
 			isa = PBXGroup;
 			children = (
+				C6950B232360C7C200D450E7 /* README.md */,
 				C6950B0C2360C49400D450E7 /* Dicee-SwiftUI-MVC */,
 				C6950B0B2360C49400D450E7 /* Products */,
 			);
@@ -68,7 +69,6 @@
 				C6950B1B2360C49500D450E7 /* Info.plist */,
 				C6950B152360C49500D450E7 /* Preview Content */,
 				C6950B212360C4FB00D450E7 /* DiceeModel.swift */,
-				C6950B232360C7C200D450E7 /* README.md */,
 			);
 			path = "Dicee-SwiftUI-MVC";
 			sourceTree = "<group>";
