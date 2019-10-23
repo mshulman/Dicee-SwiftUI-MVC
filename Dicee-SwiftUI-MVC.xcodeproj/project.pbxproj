@@ -14,7 +14,6 @@
 		C6950B172360C49500D450E7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6950B162360C49500D450E7 /* Preview Assets.xcassets */; };
 		C6950B1A2360C49500D450E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6950B182360C49500D450E7 /* LaunchScreen.storyboard */; };
 		C6950B222360C4FB00D450E7 /* DiceeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6950B212360C4FB00D450E7 /* DiceeModel.swift */; };
-		C6950B242360C7C300D450E7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C6950B232360C7C200D450E7 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,7 @@
 		C6950B192360C49500D450E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6950B1B2360C49500D450E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6950B212360C4FB00D450E7 /* DiceeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceeModel.swift; sourceTree = "<group>"; };
-		C6950B232360C7C200D450E7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		C6950B252360CABE00D450E7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,7 +43,7 @@
 		C6950B012360C49400D450E7 = {
 			isa = PBXGroup;
 			children = (
-				C6950B232360C7C200D450E7 /* README.md */,
+				C6950B252360CABE00D450E7 /* README.md */,
 				C6950B0C2360C49400D450E7 /* Dicee-SwiftUI-MVC */,
 				C6950B0B2360C49400D450E7 /* Products */,
 			);
@@ -141,7 +140,6 @@
 			files = (
 				C6950B1A2360C49500D450E7 /* LaunchScreen.storyboard in Resources */,
 				C6950B172360C49500D450E7 /* Preview Assets.xcassets in Resources */,
-				C6950B242360C7C300D450E7 /* README.md in Resources */,
 				C6950B142360C49500D450E7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
