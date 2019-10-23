@@ -1,4 +1,4 @@
-#Dicee-SwiftUI-MVC
+# Dicee-SwiftUI-MVC
 Based on Angela Yu's amazing course on Udemy, "iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp"
 
 Made the following changes:
